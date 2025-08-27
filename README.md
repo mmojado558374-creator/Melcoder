@@ -1,4 +1,4 @@
-PRINCE ARVIN CABUTE (MELCODER)
+MARK PHILIP MOJADO (MELCODER)
 Project water tank
 This program is a simple water tank simulator made in Java. It uses an abstract class called Tank as a blueprint, which sets the idea that every tank should be able to fill water, use water, and check its status. From this blueprint, two types of tanks are created: a HomeTank that can hold 200 liters and a BuildingTank that can hold 1000 liters. The user gets to choose which tank they want to use, then they can add water, take water out, or check if the tank is full, empty, or still in use. All interactions happen through dialog boxes with JOptionPane, making it easy to follow. The program automatically ends once the tank is either completely empty or completely full.
 
